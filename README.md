@@ -108,4 +108,4 @@ Create custom prefabs for the measurement points and angle visualization and ass
 
 ## Credits
 
-Developed by PhotoLabs for use in Unity projects. Feel free to modify and extend this tool to suit your needs. 
+Developed by Dr Chamyoung for use in Unity projects. Feel free to modify and extend this tool to suit your needs. 
